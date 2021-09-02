@@ -1,3 +1,4 @@
+```
       )clear
 clear ws
 
@@ -141,4 +142,4 @@ We often use array techniques in order to express program logic:
 ┌→────┬───────┬───────┬─────┬────┬───────┐
 │early│daytime│daytime│early│late│daytime│
 └────→┴──────→┴──────→┴────→┴───→┴──────→┘
-
+```
